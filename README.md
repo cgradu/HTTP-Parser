@@ -1,6 +1,5 @@
 # HTTP Parser
-## Author
-Constantin Radu-Giorgian  
+**Author**:Constantin Radu-Giorgian  
 ## Description
 This project utilizes the Parson library for parsing JSON messages. The implementation includes modifications to various files and the creation of new functionalities.
 
